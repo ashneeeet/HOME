@@ -182,25 +182,6 @@ body {
         margin-left: 700px;;
         position:absolute;
     }
-
-    .btn2{
-        text-align:right;
-    }
-
-    .btn-02{
-        background-color: #B0CCDF;
-        padding:18px 40px;
-        border-radius: 10px;
-        display: inline-block;
-        box-shadow: 0 0.08rem 0.15rem black;
-        margin-top: 2px;
-    }
-
-    .btn2 a{
-        color:black;
-        text-decoration: none;
-    }
-
     .gangwan p{
         width:350px;
     }
